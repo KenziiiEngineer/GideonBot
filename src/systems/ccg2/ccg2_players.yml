@@ -1,0 +1,31 @@
+players:
+  - nick: WindyBunny
+    userId: "825277903809544212"
+    number: 1
+    addedAt: 1764532604669
+  - nick: IvanexDeYoshino
+    userId: "1222340986517192754"
+    number: 2
+    addedAt: 1764532789401
+  - nick: Desayuno2
+    userId: "667244557905166349"
+    number: 3
+    addedAt: 1764533468624
+  - nick: X3rio_07
+    userId: "759425608916402236"
+    number: 4
+    addedAt: 1764534131752
+  - nick: axelc2206
+    userId: "740354689794572378"
+    number: 5
+    addedAt: 1764536354580
+  - nick: Froackbriel
+    userId: "791293092732076102"
+    number: 6
+    addedAt: 1764536489328
+  - nick: Cl1anxd
+    userId: "1266224527948386318"
+    number: 7
+    addedAt: 1764537241140
+channel: "1325228241853616249"
+roleId: "1326317250952695929"

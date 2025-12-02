@@ -1,0 +1,37 @@
+{
+  "bot": {
+    "color": "#2F3136",
+    "ownerId": "471868961017954306",
+    "prefix": "/",
+    "embedFooter": "⚡ GideonBot | Powered by Gideon Studio"
+  },
+  "tickets": {
+    "categoria": "1441569962648145971",
+    "canalLogs": "1428856008897331240",
+    "mensajePanel": "",
+    "rolStaffGlobal": "1402426944796233750"
+  },
+  "verificacion": {
+    "canal": "",
+    "rolesAgregar": [
+      "",
+      ""
+    ],
+    "rolQuitar": ""
+  },
+  "logs": {
+    "canalGeneral": "",
+    "mensajes": true,
+    "entradas": true,
+    "salidas": true,
+    "canales": true,
+    "roles": true,
+    "comandos": true
+  },
+  "welcome": {
+    "canal": ""
+  },
+  "autorole": {
+    "rol": ""
+  }
+}
